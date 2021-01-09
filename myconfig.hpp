@@ -34,7 +34,7 @@
 
 /* Lattice-Boltzmann features */
 #define LB_BOUNDARIES
-//#define LB_BOUNDARIES_GPU
+#define LB_BOUNDARIES_GPU
 //#define LB_ELECTROHYDRODYNAMICS
 //#define ELECTROKINETICS
 //#define EK_BOUNDARIES
